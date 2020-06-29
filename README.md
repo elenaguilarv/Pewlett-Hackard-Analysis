@@ -53,7 +53,7 @@
 
 - I recommend the next step in this analysis to be that the most recently hired employees, from the last 2-3 years, be identified and then paired with the retirement-ready employees that are qualified and willing to participate in the mentorship program. 
 
-- I also recommend that HR looks at the next big wave of retiring employees to better prepare for replacements. ~43,000 is significant amount of employees retiring soon and only less than 2,000 of them could initially be part of the mentorship program. It might be a better idea to start the mentorship program sooner. The employees with duplicates in particular should be encouraged to participate since they have extensive experience with the company, through many job titles and have hypothetically have lived through salary raises over the years with the company. They could have the best perspective and recommendations for new hires.  
+- I also recommend that HR looks at the next big wave of retiring employees to better prepare for replacements. ~43,000 is significant amount of employees retiring soon and only less than 2,000 of them could initially be part of the mentorship program. It might be a better idea to start the mentorship program sooner. The employees with duplicates in particular should be encouraged to participate since they have extensive experience with the company, through many job titles and have hypothetically lived through salary raises over the years with the company. They could have the best perspective and recommendations for new hires.  
 
 ## Employee Database Mapping 
 
